@@ -20,3 +20,5 @@ set_prolog_flag(answer_write_options,
 ```
 
 Il test tiene conto degli oggetti **non abbreviati**. Per questo motivo potrebbe non darvi giusto alcuni casi. 
+
+![proof-of-work](https://user-images.githubusercontent.com/86363063/220473031-618832bc-db81-401b-ba57-c4f6948a264e.gif)
