@@ -9,7 +9,7 @@ Un tool per testare il corretto funzionamento del progetto JSONParser - Febbraio
 - Questo eseguirà tutti i test presenti nel PDF della consegna per voi 😉
 
 ### Nota Bene
-Ho notato che l'interprete Prolog nel caso debba printare a schermo un oggetto con tanti livelli di innestazione tende ad abbreviare un po' di cose con "| ..." (ps magari lo fa solo a me lol). Per ovviare a questa cosa è possibile utilizzare il seguente predicato:
+Ho notato che l'interprete Prolog nel caso debba printare a schermo un oggetto con tanti livelli di innestazione tende ad abbreviare un po' di cose con "| ..." (magari lo fa solo a me lol). Per ovviare a questa cosa è possibile utilizzare il seguente predicato:
 ```prolog
 set_prolog_flag(answer_write_options,
     [ quoted(true),
